@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-ui-zh",
+  "name": "UI 汉化",
+  "version": "0.2.2",
+  "minAppVersion": "1.4.0",
+  "description": "把英文插件的界面文案翻成中文：只改显示层文本，不碰插件源码，保留术语与标识符。",
+  "author": "YG",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}

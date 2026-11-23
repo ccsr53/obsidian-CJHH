@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "_auto",
+  "generatedAt": null,
+  "entries": {
+    "Complex data views for the data-obsessed.": "为数据爱好者打造的复杂数据视图。",
+    "Create and manage bookmarks for the built-in Web viewer.": "为内置 Web 查看器创建和管理书签。",
+    "Integrate Git version control with automatic backup and other advanced features.": "将 Git 版本控制与自动备份及其他高级功能集成。",
+    "Manage translations for plugins with hot-reload support and crowdsourced dictionaries.": "管理插件翻译，支持热重载和众包词典。",
+    "Offers controls for adjusting theme, plugin, and snippet CSS variables.": "提供用于调整主题、插件和片段 CSS 变量的控件。",
+    "Open Copilot Agent Chat": "打开 Copilot Agent Chat",
+    "Open Copilot Agent Chat with this note": "使用此笔记打开 Copilot Agent Chat",
+    "OpenCode refreshed.": "OpenCode 已刷新。",
+    "Sketch Your Mind. Edit and view Excalidraw drawings. Enter the world of 4D Visual PKM.": "勾勒你的思维。编辑和查看 Excalidraw 绘图。进入 4D 可视化 PKM 的世界。",
+    "This is a mindmap , outline software.": "这是一款思维导图、大纲软件。",
+    "Yet another unofficial plugin allowing users to synchronize notes between local device and the cloud service.": "又一个非官方插件，允许用户在本地设备和云服务之间同步笔记。"
+  }
+}
